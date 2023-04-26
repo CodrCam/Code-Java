@@ -6,6 +6,10 @@ A Java implementation of a singly linked list with basic operations (append, ins
 
 Given a singly linked list, implement a method `kthFromEnd` that returns the value of the node that is k places from the tail of the linked list.
 
+## Whiteboard
+
+![WBcode7.jpg](WBcode7.jpg)
+
 ## Classes
 
 ### LinkedList
@@ -25,7 +29,7 @@ A simple class representing the node of a singly linked list, with the following
 - `value`
 - `next`
 
-## Example
+## TEST Example
 
 ```java
 LinkedList linkedList = new LinkedList();
