@@ -1,4 +1,4 @@
-# LinkedList and kthFromEnd
+# LinkedList.LinkedList and kthFromEnd
 
 A Java implementation of a singly linked list with basic operations (append, insertBefore, insertAfter) and a method to find the value of the kth node from the end.
 
@@ -12,7 +12,7 @@ Given a singly linked list, implement a method `kthFromEnd` that returns the val
 
 ## Classes
 
-### LinkedList
+### LinkedList.LinkedList
 
 The main class that represents the singly linked list, with the following methods:
 
@@ -32,7 +32,7 @@ A simple class representing the node of a singly linked list, with the following
 ## TEST Example
 
 ```java
-LinkedList linkedList = new LinkedList();
+LinkedList.LinkedList linkedList = new LinkedList.LinkedList();
 linkedList.append(1);
 linkedList.append(3);
 linkedList.append(8);
