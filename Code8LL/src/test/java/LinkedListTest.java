@@ -32,3 +32,4 @@ class LinkedListTest {
         assertNull(current);
     }
 }
+
