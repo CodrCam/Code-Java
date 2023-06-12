@@ -15,3 +15,11 @@ Coding problems for Java
 [Graph Code](Code8LL/src/main/java/Code35/Graph.java)
 
 [Graph Code Tests](Code8LL/src/test/java/code35tests/GraphTest.java)
+
+## Code 36
+
+[README](Code8LL/src/main/java/Code36/README.md)
+
+[Graph Code](Code8LL/src/main/java/Code36/Graph.java)
+
+[Graph Code Tests](Code8LL/src/test/java/GraphTest/GraphTest.java)

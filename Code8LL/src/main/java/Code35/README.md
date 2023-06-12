@@ -18,7 +18,7 @@ The Graph supports the following operations:
 - Each Node is represented by a value and a HashMap of its neighbors and corresponding edge weights.
 
 ### Whiteboard
-![whiteboard](src/main/resources/code35img.png)
+![whiteboard](code35img.png)
 
 ### Methods
 
