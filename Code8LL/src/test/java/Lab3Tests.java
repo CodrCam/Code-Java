@@ -1,4 +1,3 @@
-package Lab3Test;
 import Lab3.Main;
 
 import org.junit.jupiter.api.Test;
@@ -8,7 +7,7 @@ import java.io.*;
 import java.nio.file.*;
 import java.util.*;
 
-public class MainTest {
+public class Lab3Tests {
 
     @Test
     public void testAnalyzeWeatherData() {

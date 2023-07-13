@@ -41,7 +41,7 @@ This repository contains code for a set of problems involving weather data analy
 
 ## Tests
 
-Unit tests are available for each method in the [MainTest.java](src/test/java/MainTest.java) file. The tests use JUnit and include scenarios such as no errors, one error, few errors, many errors, and an empty file for JavaScript syntax checking. There are also tests for weather data analysis and vote tallying based on given example scenarios.
+Unit tests are available for each method in the [Code13Tests.java](src/test/java/Code13Tests.java) file. The tests use JUnit and include scenarios such as no errors, one error, few errors, many errors, and an empty file for JavaScript syntax checking. There are also tests for weather data analysis and vote tallying based on given example scenarios.
 
 ## Getting the Code
 
@@ -51,6 +51,6 @@ Unit tests are available for each method in the [MainTest.java](src/test/java/Ma
 
 3. Run the Main.java file to see the results for the predefined inputs.
 
-4. Run the MainTest.java file to execute the unit tests.
+4. Run the Code13Tests.java file to execute the unit tests.
 
 You need to have Java and JUnit installed in your local environment to run the code and tests.
